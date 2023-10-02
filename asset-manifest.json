@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/youneedpython/items/static/css/main.ec9c87b8.css",
-    "main.js": "/youneedpython/items/static/js/main.1378bade.js",
-    "static/js/787.6dbb226d.chunk.js": "/youneedpython/items/static/js/787.6dbb226d.chunk.js",
-    "static/media/logo.svg": "/youneedpython/items/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/youneedpython/items/index.html",
-    "main.ec9c87b8.css.map": "/youneedpython/items/static/css/main.ec9c87b8.css.map",
-    "main.1378bade.js.map": "/youneedpython/items/static/js/main.1378bade.js.map",
-    "787.6dbb226d.chunk.js.map": "/youneedpython/items/static/js/787.6dbb226d.chunk.js.map"
+    "main.css": "/items/static/css/main.ec9c87b8.css",
+    "main.js": "/items/static/js/main.757fbbf3.js",
+    "static/js/787.6dbb226d.chunk.js": "/items/static/js/787.6dbb226d.chunk.js",
+    "static/media/logo.svg": "/items/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/items/index.html",
+    "main.ec9c87b8.css.map": "/items/static/css/main.ec9c87b8.css.map",
+    "main.757fbbf3.js.map": "/items/static/js/main.757fbbf3.js.map",
+    "787.6dbb226d.chunk.js.map": "/items/static/js/787.6dbb226d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec9c87b8.css",
-    "static/js/main.1378bade.js"
+    "static/js/main.757fbbf3.js"
   ]
 }
